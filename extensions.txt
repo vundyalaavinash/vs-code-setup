@@ -1,0 +1,17 @@
+anthropic.claude-code
+dart-code.dart-code
+dart-code.flutter
+docker.docker
+eamodio.gitlens
+github.vscode-pull-request-github
+golang.go
+loyieking.smalise
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-vscode-remote.remote-containers
+openai.chatgpt
+openai.codex-audio
+surendrajat.apklab
